@@ -1,0 +1,22 @@
+.flex{
+    display: flex;
+}
+.item-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.space-around{
+    justify-content: space-around;
+}
+.space-between{
+    justify-content: space-between;
+}
+.semibold{
+    font-weight:bolder;
+    gap:10px
+}
+.mx-2{
+    margin:0 12px;
+}
